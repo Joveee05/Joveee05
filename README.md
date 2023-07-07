@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brian Etaghene</h1>
+<h1 align="center">Hi 👋, I'm Brian </h1>
 <div align="center"> <img src="https://github.com/Joveee05/instagram_clone/blob/master/public/img/user-635dcf668b8eadfc3ccd4b87-1667097006490.jpeg"> </div>
 <h3 align="center">A passionate backend developer</h3>
 
@@ -8,9 +8,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently working on [NodeJs-Oauth2-API](https://github.com/Joveee05/NodeJs-Oauth2-API)
+- 🔭 I’m currently working on lots of apps
 
 - 🌱 I’m currently learning **Java, Spring Boot**
+
+- - 👯 I’m looking to collaborate on Node.js/JavaScript Projects.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Joveee05](https://github.com/Joveee05)
 
