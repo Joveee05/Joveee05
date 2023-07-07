@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Java, Spring Boot**
 
-- - 👯 I’m looking to collaborate on Node.js/JavaScript Projects.
+- 👯 I’m looking to collaborate on Node.js/JavaScript Projects.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Joveee05](https://github.com/Joveee05)
 
