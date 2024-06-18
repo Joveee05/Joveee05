@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on lots of apps
 
-- 🌱 I’m currently learning **Java, Spring Boot**
+- 🌱 I’m currently learning **React, Next.js**
 
-- 👯 I’m looking to collaborate on Node.js/JavaScript/TypeScript Projects.
+- 👯 I’m looking to collaborate on React/Next.js/Node.js/JavaScript/TypeScript Projects.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Joveee05](https://github.com/Joveee05)
 
-- 💬 Ask me about **Node.js, JavaScript, TypeScript, Express, Nestjs**
+- 💬 Ask me about **Node.js, JavaScript, React, Next,js TypeScript, Express, Nestjs**
 
 - 📫 How to reach me **joveee05@gmail.com**
 
