@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Node.js, JavaScript, React, Next,js TypeScript, Express, Nestjs**
 
-- 📫 How to reach me **joveee05@gmail.com**
+- 📫 How to reach me **brian.etaghene05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
